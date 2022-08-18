@@ -1,0 +1,7 @@
+S.No	FileName	Pop	Gen	Size
+---------------------------------------------
+1	MAYABAZAR.jpeg	400	10	36
+2	Bahubali.jpg	200	20	56
+3	flower.jpg	100	20	30
+4	lena.jpg 	200	20	20
+

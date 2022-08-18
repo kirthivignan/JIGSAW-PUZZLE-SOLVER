@@ -1,5 +1,7 @@
-# Digital Image Processing Course Project
-## Paper Title: [A Genetic Algorithm-Based Solver for Small-Scale Jigsaw Puzzles](https://link.springer.com/content/pdf/10.1007%2F978-3-030-53956-6_32.pdf)
+# Digital Image Processing (DIP) Course Project Monsoon 2021
+
+This project is an implementation of the following paper:
+## Reference Paper: [A Genetic Algorithm-Based Solver for Small-Scale Jigsaw Puzzles](https://link.springer.com/content/pdf/10.1007%2F978-3-030-53956-6_32.pdf)
 
 ### Directories:
 ```
@@ -12,7 +14,7 @@
 |-- guidelines.md: Guidelines for the project
 ```
 
-### Setting up the environment:
+<!-- ### Setting up the environment:
 
 ```bash
 $ cd Code
@@ -25,9 +27,9 @@ Install project in editable mode:
 ```bash
 $ pip3 install -e .
 ```
-
-### Running the GUI:
-- Firstly execute the GUI file with following command from head directory.
+ -->
+### Executing the GUI:
+- Firstly run the GUI file with following command from head directory.
 ```
 python3 GUI.py
 ```
@@ -47,3 +49,5 @@ python3 GUI.py
 [Siva Durga](https://github.com/sivadurga-web) (2019102038, ECE) 
 
 [Viswanadh](https://github.com/VIS-WA)  (2019112011, ECD) 
+
+#### Note: This project has references from [GAPS](https://github.com/nemanja-m/gaps). The code has been restructured for better view. The paths used in the code might be broken. Correct them before using the code
